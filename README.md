@@ -3,7 +3,7 @@ This is an analysis of the athletes who participated in the 2024 Olympics held i
 
 ## Overview
 ---
-This report is an analysis of the 2024 Olympics held in Paris, France with a focus on the *Athletes* who performed during the global event. The goal is to identify key trends in participation, track representation and inclusivity, and to communicate these insights in the best manner.
+This reports my analysis of the 2024 Olympics held in Paris, France with a focus on the *Athletes* who performed during the global event. The goal is to identify key trends in participation, track representation and inclusivity, and to communicate these insights in the best manner.
 
 
 ## Data Source
