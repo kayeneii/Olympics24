@@ -32,9 +32,33 @@ The following tools were utilised in the creation of this report:
      - What was the female-male distribution of the Millenials?
      - What was the rate of athletes with refugee status?
  
-  3. Data Analysis:
+  2. Data Analysis: During analysis, Conditional Columns were created using DAX functions.
+
+      = Gender Count
+      ```DAX
+      If GENDER equals Female Then 1
+     Else 0
+     ```
+ 
+     = Generation
+     ```DAX
+     If YOB before 1997 Then Millenial
+     Else GenZ
+     ```
+
+     = Generation Count
+     ```DAX
+     If Generation equals GenZ Then 1
+     Else 0
+     ```
      
-  4. Data Visualization: 
+     = Refugee Count
+     ```DAX
+     If COUNTRY contains Refugee Then 1
+     Else 0
+     ```
+     
+  3. Data Visualization: Cards, Donut Chart and Matrix were used to visually plot out the representation and inclusivity trend, including other summarized data. 
 
 ## Findings and Insights
 ---
