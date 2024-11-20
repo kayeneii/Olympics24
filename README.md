@@ -61,7 +61,8 @@ The following tools were utilised in the creation of this report:
 
 ## Insights
 ---
-Insights varied according to discipline.
+The insights derived from the data following a thorough analysis, varied according to discipline.
+
  * Archery: A total of 128 archers participated, of which 50% were male. This discipline comprised 49 females and 43 males in the Gen Z category, while the Millenials comprised 21 males and 15 females.
 
  * Athletics: Had 48.79% female representation in a total of 2,023 athletes. Gen Z = 523 females and 644 males; while Millenial = 392 males and 464 females.
