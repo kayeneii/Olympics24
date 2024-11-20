@@ -1,7 +1,7 @@
 # Olympics24
 This is an analysis of the athletes who participated in the 2024 Olympics held in Paris, France.
 
-[Overview](#overview) [Data Source](#data-source) [Tools](#tools) [Insights](#insights) [Visualizations](#visualizations)
+[Overview](#overview) [Data Source](#data-source) [Tools](#tools) [Insights](#insights) [Visualizations](#visualizations) [Conclusion](conclusion)
 
 ## Overview
 ---
@@ -13,7 +13,7 @@ This reports my analysis of the 2024 Olympics held in Paris, France with a focus
 
 ## Data Source
 ---
-The data used in generating this report was obtained from [Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/olympics-2024) and authored by Willian Oliveira Gibin.
+The data used in generating this report was authored by Willian Oliveira Gibin and can be found at [Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/olympics-2024).
 
 
 ## Tools
@@ -52,7 +52,6 @@ The following tools were utilised in the creation of this report:
          Else Millenial
       ```
     
-     
   4. Data Visualization: Cards, Donut Chart and Lines were used to visually plot out the representation and inclusivity trend, including other summarized data.
  
 - **GitHUb:** For,
