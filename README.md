@@ -99,4 +99,6 @@ Based on these insights, it can be construed that the 2024 Olympics was largely 
 
 ## Conclusion
 ---
-Did you found this report informative? Until my next report, you may find me [here.](https://www.linkedin.com/in/kayeneii) I look forward to connecting with you there!😄
+Did you find this report informative? Kindly note that this repost was based solely on data available as at date of report, and is therefore subject to change. 
+
+Until my next report, you may find me [here.](https://www.linkedin.com/in/kayeneii) I look forward to connecting with you there!😄
